@@ -31,3 +31,7 @@ npm test (run all tests, including tslint)
 npm test -- -u (run tests, update snapshots)
 npm test -- --watch (run tests, watch files for changes)
 ```
+
+## Recommaned Editor
+
+VS code is the recommaned editor. Install tslint extension and restart VS code.
