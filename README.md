@@ -21,3 +21,11 @@ To install typings, run
 ```
 npm install --save @types/react
 ```
+
+## Testing
+
+To run test, install **tslint** and **typescript** globally.
+
+```
+npm test | npm test -- -u
+```
