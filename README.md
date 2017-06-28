@@ -27,5 +27,7 @@ npm install --save @types/react
 To run test, install **tslint** and **typescript** globally.
 
 ```
-npm test | npm test -- -u
+npm test (run all tests, including tslint)
+npm test -- -u (run tests, update snapshots)
+npm test -- --watch (run tests, watch files for changes)
 ```
